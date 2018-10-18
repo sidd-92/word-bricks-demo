@@ -1,7 +1,5 @@
-# word-bricks-demo
-Just a Demo Version of the Word-Bricks Game
 # Word-Bricks
-
+Just a Demo Version of the Word-Bricks Game
 ![User Interface Of the Game](https://github.com/sidd-92/word-unshuffled/blob/master/UIScreen.PNG)
 
 There is also a CLI Version of this game
